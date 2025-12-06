@@ -1,0 +1,14 @@
+    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100% HEIGHT=100 bgcolor="#ffd34e">
+      <TR>
+        <TD ALIGN=CENTER VALIGN=CENTER>  
+           <FONT FACE="ARIAL" COLOR="#FFFFFF" SIZE=3> Тел.: +7(ххх)ххх-хх-хх</FONT> 
+        </TD> 
+        <TD ALIGN=CENTER VALIGN=CENTER>  
+           <H1> Интернет - магазин тортов, пироженых и маффинов </H1>
+        </TD> 
+        <TD ALIGN=CENTER VALIGN=CENTER>  
+           <FONT FACE="ARIAL" COLOR="#FFFFFF" SIZE=3> e-mail: cakework@mail.ru </FONT> 
+        </TD> 
+      </TR> 
+    </TABLE> 
+

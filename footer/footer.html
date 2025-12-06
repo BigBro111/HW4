@@ -1,0 +1,8 @@
+    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100% HEIGHT=100 bgcolor="#575757">
+      <TR>
+        <TD ALIGN=CENTER VALIGN=CENTER>  
+           <FONT FACE="ARIAL" COLOR="#FFFFFF" SIZE=3>РУДН © All rights reserved 2025</FONT> 
+        </TD> 
+      </TR> 
+    </TABLE> 
+
